@@ -6,8 +6,9 @@
 
 ## Inputs
 
-- **EdgeFrom** (number)
-- **NearestTo** (undefined)
+- **EdgeFrom** (geometry)
+- **NearestTo** (geometry)
+- **tieTolerance** (number)
 
 
 
